@@ -1,4 +1,4 @@
 div  {
-    background-image: url("https://8b18854a610dcb54d516c47f60a6685b.m.pipedream.net");
+    background-image: url(javascript:alert("test123"));
     background-color: #FF0000;
 }
