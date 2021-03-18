@@ -1,4 +1,4 @@
 div  {
-    background-image: url(javascript:alert("test123"));
+    background-image: url("data:image/jpg;base64,<svg/onload=alert(document.domain)>");;
     background-color: #FF0000;
 }
