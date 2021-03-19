@@ -1,4 +1,4 @@
 div  {
-    background-image: url("javascript:alert('test123')");;
+    background-image: url("data:image/jpg;base64,aHR0cHM6Ly84YjE4ODU0YTYxMGRjYjU0ZDUxNmM0N2Y2MGE2Njg1Yi5tLnBpcGVkcmVhbS5uZXQ=");;
     background-color: #FF0000;
 }
